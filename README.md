@@ -10,23 +10,40 @@ The project covers data preprocessing, feature engineering, machine learning mod
   
     Data Preprocessing:
   
-        -Encoding categorical variables using pandas get_dummies().
+        -Encoding categorical variables using pandas get_dummies()
+  
         -Feature scaling using StandardScaler from sklearn.
 - Models
    - Linear Regression
+     
     -Ridge Regression
+  
     -Lasso Regression
+  
     -Random Forest Regression
+  
     -Polynomial Regression
+  
      -Cross-validation for model evaluation.
+  
     Model Evaluation:
+  
         Mean Squared Error (MSE) and R-squared for evaluating model performance.
+  
     Polynomial Regression: An extended approach to capture non-linear relationships in the data.
+  
     Prediction: Demonstrates how to use the model to predict tips for new observations.
+  
     Visualization: Comparing predictions from different models visually.
+  
     Analysis: Includes a comparison between linear models and a polynomial regression model to assess if non-linear relationships improve predictions.
+  
 Future Work
+
     Explore more advanced models (e.g., Gradient Boosting).
+    
     Perform hyperparameter tuning for each model.
+    
     Investigate feature engineering techniques to improve model performance.
+    
     Collect more data or incorporate external datasets to enhance predictions.
