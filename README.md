@@ -7,7 +7,7 @@ The project covers data preprocessing, feature engineering, machine learning mod
     Data Preprocessing:
         Encoding categorical variables using pandas get_dummies().
         Feature scaling using StandardScaler from sklearn.
-Models
+- Models
     Linear Regression
     Ridge Regression
     Lasso Regression
