@@ -14,7 +14,7 @@ The project covers data preprocessing, feature engineering, machine learning mod
   
 Feature scaling using StandardScaler from sklearn.
 - Models
-   - Linear Regression
+    -Linear Regression
      
     -Ridge Regression
   
