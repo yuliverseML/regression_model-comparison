@@ -41,10 +41,10 @@ Feature scaling using StandardScaler from sklearn.
   
 Future Work
 
-    Explore more advanced models (e.g., Gradient Boosting).
+  Explore more advanced models (e.g., Gradient Boosting).
     
-    Perform hyperparameter tuning for each model.
+  Perform hyperparameter tuning for each model.
     
-    Investigate feature engineering techniques to improve model performance.
+  Investigate feature engineering techniques to improve model performance.
     
-    Collect more data or incorporate external datasets to enhance predictions.
+  Collect more data or incorporate external datasets to enhance predictions.
