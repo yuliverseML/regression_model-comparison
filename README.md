@@ -28,7 +28,7 @@ Feature scaling using StandardScaler from sklearn.
   
     Model Evaluation:
   
-        Mean Squared Error (MSE) and R-squared for evaluating model performance.
+  Mean Squared Error (MSE) and R-squared for evaluating model performance.
   
     Polynomial Regression: An extended approach to capture non-linear relationships in the data.
   
