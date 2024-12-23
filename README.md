@@ -39,7 +39,7 @@ Feature scaling using StandardScaler from sklearn.
   
     Analysis: Includes a comparison between linear models and a polynomial regression model to assess if non-linear relationships improve predictions.
   
-Future Work
+- Future Work
 
   Explore more advanced models (e.g., Gradient Boosting).
     
