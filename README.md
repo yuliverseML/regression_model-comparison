@@ -14,6 +14,7 @@ The project covers data preprocessing, feature engineering, machine learning mod
   
 Feature scaling using StandardScaler from sklearn.
 - Models
+  
     -Linear Regression
      
     -Ridge Regression
@@ -26,7 +27,7 @@ Feature scaling using StandardScaler from sklearn.
   
      -Cross-validation for model evaluation.
   
-    Model Evaluation:
+   -  Model Evaluation:
   
   Mean Squared Error (MSE) and R-squared for evaluating model performance.
   
