@@ -2,10 +2,12 @@ This repository contains a Python project for modeling and predicting tips based
 The project covers data preprocessing, feature engineering, machine learning model comparison, polynomial regression, and prediction.
 - Project Overview
 
-
    Dataset: 'tips' from Seaborn
+  
     Objective: Predict the amount of tip given various features like total bill, time of day, etc.
+  
     Data Exploration & Visualization: Initial data analysis using Seaborn and Matplotlib.
+  
     Data Preprocessing:
         Encoding categorical variables using pandas get_dummies().
         Feature scaling using StandardScaler from sklearn.
