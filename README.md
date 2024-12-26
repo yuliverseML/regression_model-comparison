@@ -1,5 +1,6 @@
 This repository contains a Python project for modeling and predicting tips based on data from the 'tips' dataset in Seaborn, which includes transactions at a restaurant. 
 The project covers data preprocessing, feature engineering, machine learning model comparison, polynomial regression, and prediction.
+- Objective: Demonstrate the effectiveness of selected models and comparison methods within the chosen dataset for the ML project.
 - Project Overview
   
    Dataset: 'tips' from Seaborn
@@ -25,7 +26,6 @@ Feature scaling using StandardScaler from sklearn.
   
     -Polynomial Regression
   
-     -Cross-validation for model evaluation.
   
    -  Model Evaluation:
   
