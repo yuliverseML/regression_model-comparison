@@ -34,7 +34,7 @@ Barplots are used to compare the R² and MSE metrics for all models side by side
 
 ## Outcome
 
-- **Best Performing Model:** The Random Forest Regressor showed superior performance in terms of both MSE and R2 scores.
+- **Best Performing Model:** The Ridge Regression showed superior performance in terms of both MSE and R2 scores (MSE 0.7023, R² 0.4381).
 - **Impact of New Feature:** Adding a random feature slightly improved the model's R2 score but increased the MSE, suggesting potential overfitting or noise introduction.
 - **Polynomial Regression:** Did not significantly outperform the best linear model, indicating that the relationship might not benefit from higher-degree polynomial features in this context.
 
