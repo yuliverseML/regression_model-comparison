@@ -12,7 +12,7 @@ The project covers data preprocessing, feature engineering, machine learning mod
 - **Linear Regression**
 - **Ridge Regression**
 - **Lasso Regression**
-- **Random Forest Regressor**
+- **Random Forest**
 - **Polynomial Regression**
 
 ## Features
