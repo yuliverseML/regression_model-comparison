@@ -1,5 +1,5 @@
 
-  # Machine Learning Model Comparison for Tips Prediction
+  # Comparing Regression Models for Tips Prediction: Linear, Ridge, Lasso, Random Forest, Polynomial
 
 This repository contains a Python project for modeling and predicting tips based on data from the 'tips' dataset in Seaborn, which includes transactions at a restaurant. 
 The project covers data preprocessing, feature engineering, machine learning model comparison, polynomial regression, and prediction.
